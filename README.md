@@ -12,10 +12,12 @@ In addition i have disabled update checking which was pingning the blabber websi
 Finally, i have added fingerprint feature which asking u to touch ur fingerprint sensor but only if it supported by ur android. However this function need to be upgraded, because now it not protect application. In the future i want to add password activity for protection of the app.
 </p>
 <hr>
+
 ### Features
 - Added exported=false to the activities
 - Removed message text in notifications, now its always hidden
 - Removed access to contacts
 - Removed access to gps
+
 <hr>
 <h1>Made by **LAMBORGHINI_50X** team</h1>
